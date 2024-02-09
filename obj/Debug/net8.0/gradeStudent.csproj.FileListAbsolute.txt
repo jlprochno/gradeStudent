@@ -1,0 +1,14 @@
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeStudent\bin\Debug\net8.0\gradeStudent.exe
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeStudent\bin\Debug\net8.0\gradeStudent.deps.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeStudent\bin\Debug\net8.0\gradeStudent.runtimeconfig.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeStudent\bin\Debug\net8.0\gradeStudent.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeStudent\bin\Debug\net8.0\gradeStudent.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeStudent\obj\Debug\net8.0\gradeStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeStudent\obj\Debug\net8.0\gradeStudent.AssemblyInfoInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeStudent\obj\Debug\net8.0\gradeStudent.AssemblyInfo.cs
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeStudent\obj\Debug\net8.0\gradeStudent.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeStudent\obj\Debug\net8.0\gradeStudent.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeStudent\obj\Debug\net8.0\refint\gradeStudent.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeStudent\obj\Debug\net8.0\gradeStudent.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeStudent\obj\Debug\net8.0\gradeStudent.genruntimeconfig.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeStudent\obj\Debug\net8.0\ref\gradeStudent.dll
